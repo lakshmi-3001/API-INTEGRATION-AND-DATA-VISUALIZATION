@@ -39,5 +39,4 @@ plt.pie([clear, cloud_coverage], labels=['Clear', 'Cloudy'], autopct='%1.1f%%', 
 plt.title("Cloud Cover")
 plt.show()
 
-wind_speed = data['wind']['speed']
-print(f"Wind Speed: {wind_speed} m/s")
+
