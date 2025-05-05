@@ -16,7 +16,7 @@ DESCRIPTION :
 
 **API Integration and Data Visualization with JSON and Matplotlib**
 
-In this script, I've integrated an API to fetch weather data for a user-specified city and then visualized key aspects of that data using Matplotlib.  My approach leverages the requests library to handle the API call, the json library to process the API response, and Matplotlib for creating informative visualizations.
+I've integrated an API to fetch weather data for a user-specified city and then visualized key aspects of that data using Matplotlib.  My approach leverages the requests library to handle the API call, the json library to process the API response, and Matplotlib for creating informative visualizations.
 
 **1. Fetching Weather Data from OpenWeatherMap API**
 
