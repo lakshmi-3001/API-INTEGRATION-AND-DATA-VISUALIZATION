@@ -64,6 +64,7 @@ Visual dashboards to monitor server health, network traffic, or application perf
 Making insights understandable and compelling for non-technical audiences using charts, infographics, and interactive reports.
 
 **Output**
+
 ![Image](https://github.com/user-attachments/assets/f2f1504d-9651-4ff4-8af1-19fdcd23ea68)
 
 ![Image](https://github.com/user-attachments/assets/6e745e60-22ab-4629-baf2-e8ae73c10de7)
